@@ -1,6 +1,6 @@
 import { navLinks } from "../constants";
 
-function Navbar() {
+function NavBar() {
   return (
     <header>
       <nav>
@@ -27,4 +27,4 @@ function Navbar() {
   );
 }
 
-export default Navbar;
+export default NavBar;
